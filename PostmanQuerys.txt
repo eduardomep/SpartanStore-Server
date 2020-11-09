@@ -1,0 +1,14 @@
+
+INGRESAR VIDEOJUEGO-------------------------------------------
+http://127.0.0.1:5000/newVideoGame
+{
+    "name": "Crysis: Remastered",
+    "year": "2020",
+    "price": 180.00,
+    "category1": "Acción",
+    "category2": "Aventura",
+    "category3": "Bélicos",
+    "picture": "https://cdn2.unrealengine.com/egs-crysisremastered-crytek-ic1edit-400x200-345505259.png?h=270&resize=1&w=480",
+    "banner": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg?h=854&resize=1&w=640",
+    "description":"El shooter clásico en primera persona de Crytek ha vuelto con un gameplay lleno de acción, un mundo abierto y las emocionantes batallas épicas que te atraparon la primera vez; ahora con gráficos remasterizados optimizados para una nueva generación de hardware."
+}
